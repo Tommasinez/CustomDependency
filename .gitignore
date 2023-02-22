@@ -1,0 +1,11 @@
+.classpath
+.dbeaver
+.gitattributes
+.project
+.settings
+.DS_Store
+/bin/
+/target/
+*.properties
+target/classes/META-INF/maven/it.betacom/CustomLibrary/pom.properties
+*.properties
